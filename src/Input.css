@@ -1,0 +1,12 @@
+.box{
+
+    background-color: black;
+    border: 50px;
+}
+input{
+    align-items: center;
+    margin: 10% 40%;
+}
+button{
+    background-color: black;
+}
